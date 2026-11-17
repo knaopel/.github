@@ -6,7 +6,7 @@ title: '**enter the title of your task here**'
 body:
   - type: markdown
     attributes:
-      values: |
+      value: |
         **Thanks for creating a task!**
         Please fill out the fields below to clearly define the work that needs to be done.
 
